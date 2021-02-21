@@ -11,7 +11,7 @@
 - (20.09 - 21.02) Back-End Web development | BitCamp
 
 ## Job
-- (21.03 ~ ) Web developer | INCA Internet Co., Ltd, Global Biz. Division
+- (21.03 ~ ) Web developer | INCA Internet Co.,Ltd.
 
 ## Interest
 - Java, Spring, Jsp & Servlet, Javascript, jQuery, Ajax, Html, Css
